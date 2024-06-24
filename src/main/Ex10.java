@@ -17,7 +17,7 @@ public class Ex10 {
 		
 		// 정수형과 실수형의 강제형변화
 		int i2 = (int) f;
-		System.out.println(i2);// 1. 소수점 밑자리를 잃음
+		System.out.println(i2);// 1. 소수점 밑자리를 잃음.
 
 	}
 
