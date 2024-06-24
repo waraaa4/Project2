@@ -13,6 +13,7 @@ public class Ex1 {
 		System.out.println("안녕하세요");	// println 함수는 출력 후 줄바꿈이 실행됨
 		System.out.print("반갑습니다");	// print 함수는 줄바꿈 안함
 		System.out.print("반갑습니다");
+		System.out.print("반갑습니다다다다다");
 		
 	}
 
