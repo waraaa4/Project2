@@ -11,7 +11,7 @@ public class Quiz8 {
 		// 그리고 결과는 정수로 출력해 주세요
 		int sum = (int) (a + b);
 		System.out.println(sum);
-		//ㅁㄴㅇasdasd
+		
 
 	}
 
